@@ -29,7 +29,7 @@ Nos adentraremos en lo que implica realizar un modelo predictivo, desde la adqui
 Daremos nuestros primeros pasos en la implementación de un modelo de Machine Learning que sea consumido en tiempo real. Este modelo utilizará los datos que se ingestan en tiempo real y realizará predicciones como por ejemplo detectar anomalías o predecir un resultado puntual. Este tipo de despliegues se los conoce también como hot-path ya que los datos son procesados tan rápido como son generados. Implementaremos un caso real de una solución de análisis de sentimiento de los Tweets que incluyen un hashtag que nos es de interés.
 
 <b>Fecha del evento:</b> 15/4/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> https://www.microsoftevents.com/profile/6773729
+<b>Link de registro:</b> [Evento finalizado]
 
 ** Prerequisitos: Para seguir el paso a paso de este hands-on, es necesario contar con una cuenta de developer de Twitter. Puede generar una cuenta en el link: https://developer.twitter.com (tener en cuenta que el proceso de creación de una cuenta puede demorar varios días.)
 <br />
