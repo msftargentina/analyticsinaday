@@ -49,7 +49,7 @@ Comenzaremos a familiarizarlos con el lenguaje de programación Python. Utilizar
 Microsoft Azure provee un conjunto de modelos de Machine Learning listos para utilizar empaquetados como servicios REST que cualquier desarrollador puede utilizar rápidamente. En esta sesión aprenderemos sobre estos servicios, como consumirlos, y como construir aplicaciones inteligentes rápidamente sin necesidad de construir nuestro propio modelo.
 
 <b>Fecha del evento:</b> 29/4/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> https://www.microsoftevents.com/profile/6762101
+<b>Link de registro:</b> El link se abre una semana antes del evento
 <br />
 <br />
 
@@ -58,7 +58,7 @@ Microsoft Azure provee un conjunto de modelos de Machine Learning listos para ut
 Presentaremos uno de los conceptos más utilizados en Machine Leraning: Deep Learning. Se trata de una técnica de Machine Learning en donde nuestros modelos son entrenados utilizando datos provenientes de un espacio altamente dimensional (veremos también que significa esto). Implementaremos un modelo de Machine Learning para Computer Vision en Python utilizando una de las librerías mas conocidas hoy en día: PyTorch (Creada por Facebook y open-source). Veremos como podemos realizar el entrenamiento de este tipo de soluciones utilizando Azure Machine Learning Services, tanto en la nube como en nuestro propio hardware.
 
 <b>Fecha del evento:</b> 6/5/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> https://www.microsoftevents.com/profile/6772456
+<b>Link de registro:</b> El link se abre una semana antes del evento
 <br />
 <br />
 
@@ -67,7 +67,7 @@ Presentaremos uno de los conceptos más utilizados en Machine Leraning: Deep Lea
 Veremos lo que implica llevar un modelo de Machine Learning a producción. Veremos como podemos medir la performance de nuestros modelos, evaluarlos, publicarlos como servicios y monitorearlos. Veremos también como tecnologías tales como Containers y Kubernetes serán de gran utilidad al momento de operacionalizar nuestros modelos junto con sus dependencias. Implementaremos un pipeline de Machine Learning completo que incluirá versionamiento de código, de modelos y de resultados.
 
 <b>Fecha del evento:</b> 13/5/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> https://www.microsoftevents.com/profile/6770556
+<b>Link de registro:</b> El link se abre una semana antes del evento
 <br />
 <br />
 
@@ -76,6 +76,6 @@ Veremos lo que implica llevar un modelo de Machine Learning a producción. Verem
 Avanzaremos un paso más en nuestro camino de procesamiento en tiempo real, ahora utilizando Databricks. Haremos una introducción al procesamiento distribuido utilizando clusters Spark, en este caso Databricks. Haremos doble clic en una tecnología particular conocida como structure streaming, que nos permite procesar datos en tiempo real tan pronto llegan a la plataforma.
 
 <b>Fecha del evento:</b> 20/5/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> https://www.microsoftevents.com/profile/6771449
+<b>Link de registro:</b> El link se abre una semana antes del evento
 
 
