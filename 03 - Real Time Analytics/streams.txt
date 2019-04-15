@@ -1,0 +1,11 @@
+Service Bus namespace: aa-mls-sentiment-hub
+
+Event Hub name: aa-mls-sentiment-hub-twitter
+
+Event Hub policy name: socialtwitter-access
+
+Event Hub policy key: aHPWg5WLRjpfteAxIL7eMYr3kXadIbIFj2f33hBrAyc=
+(This key will be terminated by today EOD.)
+
+Event Hub consumer group: cg_?
+(Replace ? by the number of the group you were given, for instance cg_04)
