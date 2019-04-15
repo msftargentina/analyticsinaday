@@ -9,3 +9,20 @@ In this session, you will going to use an experiment already created in the gall
 <li>A Twitter Developer Account. If you don't have one. Worry do not. We have a backup plan.You will need to grab the <a href="https://dev.twitter.com/oauth/overview/application-owner-access-tokens" data-linktype="external">OAuth access token</a> for accessing the Twitter API from you dev account.</li>
 <li>PowerBI</li>
 </ul>
+
+
+<h2>Architecture</h2>
+<img src="https://notebooks.azure.com/fasantia/projects/hol-mls-twittersentiment/raw/docs%2FStreamingSolution.png">
+
+<h2>The model</h2>
+We are going to use a model from the gallery https://gallery.cortanaintelligence.com/Experiment/Classification-Twitter-sentiment-text-analysis. Open the experiment in your own workspace. It should look something like the following:
+<br /><br />
+<img src="https://notebooks.azure.com/fasantia/projects/hol-mls-twittersentiment/raw/docs%2Fpredictivemodel.png">
+
+In this model we are going to use a SVM to classify text into two classes: Possitive or negative in a supervised way. You are going to create features based on the text using preprocessing techniques for text and feature hashing.
+
+<h2>The web service</h2>
+We are going to construct a web service with the following shape.
+<br /><br />
+<img src="https://notebooks.azure.com/fasantia/projects/hol-mls-twittersentiment/raw/docs%2Fpredictiveservice.png">
+
