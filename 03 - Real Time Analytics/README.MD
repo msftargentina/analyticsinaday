@@ -33,9 +33,9 @@ We are going to construct a web service that can be called from the Azure Stream
 Install the library twitter2eh by running the following code in your python environment. Note: Azure Service Bus current version is 0.5. twitter2eh needs version 0.21.1 otherwise will fail
 </p>
 
-```python
-!pip install azure-servicebus==0.21.1
-!pip install twitter2eh 
+```bash
+pip install azure-servicebus==0.21.1
+pip install twitter2eh 
 ```
 
 <p>
@@ -64,7 +64,7 @@ Create a twitter2eh.json.json file with the following structure. You will need t
 Run the process by running the following command. This process will start collecting the tweets using you tweeter account and start to stream it to the Azure Event Hub you configured.
 </p>
 
-```python
+```bash
 twitter2eh --conf ./twitter2eh.json
 ```
 
