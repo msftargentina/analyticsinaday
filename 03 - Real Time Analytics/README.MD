@@ -39,7 +39,7 @@ pip install twitter2eh
 ```
 
 <p>
-Create a twitter2eh.json.json file with the following structure. You will need to have an Event Hub component created in your Azure Subscription.
+Create a twitter2eh.json file with the following structure. You will need to have an Event Hub component created in your Azure Subscription.
 </p>
 
 ```
