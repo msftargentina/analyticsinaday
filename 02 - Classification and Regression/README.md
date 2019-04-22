@@ -2,6 +2,8 @@
 
 In this session, you will learn how to use tools in Azure Machine Learning along with some code in Python, clean and transform data. Collectively, data scientists refer to these processes as ‘data munging’. You will work with a version of the automotive price dataset which has been modified to illustrate some of the points.
 
+Solved version: https://gallery.cortanaintelligence.com/Experiment/Autos-price-prediction-Analytics-in-a-day
+
 ## Part 1: Ingesting and Joining Data
 
 Most data science experiments require you to ingest data from one or more sources, and potentially join data from diverse sources based on a common keyfield. Here, you will explore data from two source files, and then create an Azure Machine Learning experiment in which you read data from the sources and implement a join to merge the two datasets into a single table.
