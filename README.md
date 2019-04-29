@@ -40,7 +40,7 @@ Daremos nuestros primeros pasos en la implementación de un modelo de Machine Le
 Comenzaremos a familiarizarlos con el lenguaje de programación Python. Utilizaremos un SDK para manipular y transformar los datos que tenemos antes de proveerlos a nuestros modelos de Machine Learning. Una de las tareas más comunes en Data Science. Nos familiarizaremos también con una herramienta clave para cualquier científico de datos: Jupyter Notebooks y veremos como podemos correrlos fácilmente en Azure.
 
 <b>Fecha del evento:</b> 22/4/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> https://www.microsoftevents.com/profile/6773216
+<b>Link de registro:</b> [Evento finalizado]
 <br />
 <br />
 
@@ -76,6 +76,6 @@ Veremos lo que implica llevar un modelo de Machine Learning a producción. Verem
 Avanzaremos un paso más en nuestro camino de procesamiento en tiempo real, ahora utilizando Databricks. Haremos una introducción al procesamiento distribuido utilizando clusters Spark, en este caso Databricks. Haremos doble clic en una tecnología particular conocida como structure streaming, que nos permite procesar datos en tiempo real tan pronto llegan a la plataforma.
 
 <b>Fecha del evento:</b> 20/5/2019 - 9.30 am a 12.30 pm<br />
-<b>Link de registro:</b> El link se abre una semana antes del evento
+<b>Link de registro:</b> El link se abre una semana antes del evento5
 
 
